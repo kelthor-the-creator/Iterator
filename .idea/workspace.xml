@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fabeae2a-edb5-4847-aea6-8ce0343862b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/iterator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fabeae2a-edb5-4847-aea6-8ce0343862b9" name="Changes" comment="Basic iterator function.&#10;&#10;Create a class&#10;- add an iterator function&#10;- add an next function to loop through elements&#10;create a file to iterate string,list and a set">
       <change afterPath="$PROJECT_DIR$/iterator_class.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/iterators_datastruct.py" afterDir="false" />
     </list>
@@ -87,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1735492514779</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic iterator function.&#10;&#10;Create a class&#10;- add an iterator function&#10;- add an next function to loop through elements&#10;create a file to iterate string,list and a set">
+      <option name="closed" value="true" />
+      <created>1735493935615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735493935615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic iterator function.&#10;&#10;Create a class&#10;- add an iterator function&#10;- add an next function to loop through elements&#10;create a file to iterate string,list and a set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic iterator function.&#10;&#10;Create a class&#10;- add an iterator function&#10;- add an next function to loop through elements&#10;create a file to iterate string,list and a set" />
   </component>
 </project>
